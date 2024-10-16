@@ -1,0 +1,13 @@
+services:
+  api-gateway:
+    image: e821cf61cc45
+    ports:
+     - 5000:5000 
+  api-gateway-replica:
+    image: cedad0f16876
+    ports:
+      - 3000:3001
+   
+networks:
+  network-example:
+    external: true

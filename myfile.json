@@ -1,0 +1,362 @@
+[
+      {
+            "b9c44931-ac4a-4ee8-9f20-544709f40b3a": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:4302:SCHEMA_RTI",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "RTI_DEMO"
+                        }
+                  ]
+            }
+      },
+      {
+            "0513abd8-4969-44ef-8cd6-64431a50b61e": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:46740:mybidDemo17",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "edeff400-7435-4998-9e3a-466411708ec5": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:46740:mybidDemo17",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "24d99723-4c2c-467e-8cc5-ca3558f7aeec": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:46740:mybidDemo17",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "e7691489-289b-4101-9387-cd789dbb2853": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:46740:mybidDemo17",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "5c7f4f36-bba2-41b4-892e-62260dc0e691": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:46740:mybidDemo17",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "41ed2ee2-3741-4739-8956-762612b68b89": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:46740:mybidDemo17",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "b8e6f4e0-8cdc-469e-9382-febd5bf8a354": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:48606:PreDemo2",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "8187152f-1156-449e-948e-d86fa0bba253": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:48606:PreDemo2",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "ab0f4ba4-5145-44c6-877d-adc39b2ef60a": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:48606:PreDemo2",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "d5d2a1d2-ebd2-484f-8a88-55c4687e3b56": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:48606:PreDemo2",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "b1cee3b8-6d57-4521-b8f1-c22fa554dd10": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:48606:PreDemo2",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "f870f793-46b1-4e8b-9e18-f2e823b82119": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:48606:PreDemo2",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "46c077ca-02dc-4c5a-ba5b-17f7eb6254c7": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:52666:PreDemoLedger1A",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "af78ca21-b048-482a-b4a0-99e791523035": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:52666:PreDemoLedger1A",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "318859b7-f6e3-4896-9786-c019433812f6": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:52664:PreDemo1A",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "64e3f8f4-5be1-4561-9245-39fa56a712b7": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:52664:PreDemo1A",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "138a1b57-20c2-44bc-9c63-86b012f7d746": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:52664:PreDemo1A",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "71cff118-d6dc-4ae5-8dd6-ce86f751ea12": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:52664:PreDemo1A",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "b5fa14cb-b260-4ea1-b716-e076e92d3cdb": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:52664:PreDemo1A",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "1a5c8e8e-0158-482d-b9d6-f5e840ccb745": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:52664:PreDemo1A",
+                  "attributes": [
+                        {
+                              "name": "location",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "c5c03edb-1392-4186-932a-31d9a9d59118": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:57377:PreDemo2ALedger",
+                  "attributes": [
+                        {
+                              "name": "contactno",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "b9112bb6-2854-4507-8fc3-ee338cc8997b": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:57377:PreDemo2ALedger",
+                  "attributes": [
+                        {
+                              "name": "contactno",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurRTD"
+                        }
+                  ]
+            }
+      },
+      {
+            "0234cb6e-eee2-4fdb-9767-37c30f13c897": {
+                  "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:58009:PreDemo2ALedger",
+                  "attributes": [
+                        {
+                              "name": "nationality",
+                              "value": "MY"
+                        },
+                        {
+                              "name": "name",
+                              "value": "AinurLicense"
+                        }
+                  ]
+            }
+      }
+]

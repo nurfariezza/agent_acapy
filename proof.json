@@ -1,0 +1,560 @@
+[
+      {
+            "b9c44931-ac4a-4ee8-9f20-544709f40b3a": {
+                  "proofAttributes": [
+                        {
+                              "name": "AinurRegov",
+                              "schemaId": "VV9pK5ZrLPRwYmotgACPkC:2:mybidDemo16:1.0",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:34242:mybidDemo16"
+                        }
+                  ]
+            }
+      },
+      {
+            "8df88b1f-7a69-4555-a862-64e2d6d52623": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "schemaId": "VV9pK5ZrLPRwYmotgACPkC:2:PreDemo1A:1.0",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:52664:PreDemo1A"
+                        }
+                  ]
+            }
+      },
+      {
+            "e5916d6d-78e3-44d4-81ef-a2a3d72d50cb": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:75712:PassportDemo2"
+                        }
+                  ]
+            }
+      },
+      {
+            "3bc5e3a9-ab57-4882-bb42-593fe89c0503": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:75712:PassportDemo2"
+                        }
+                  ]
+            }
+      },
+      {
+            "a240e304-0d6e-436a-8fa9-2d0fc79f0795": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:75712:PassportDemo2"
+                        }
+                  ]
+            }
+      },
+      {
+            "76940ed2-0c00-4e5a-b0b1-b2b0b0502c49": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:75712:PassportDemo2"
+                        }
+                  ]
+            }
+      },
+      {
+            "8367fb3a-26bc-4406-8c1a-85dd0956ec0f": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:75712:PassportDemo2"
+                        }
+                  ]
+            }
+      },
+      {
+            "6ceecc23-349e-409b-a325-aa4a884d0f77": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:76144:PassportDemo3"
+                        }
+                  ]
+            }
+      },
+      {
+            "ab5f534d-4f32-4f48-8fa1-0c7b3f8fcbbf": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:76144:PassportDemo3"
+                        }
+                  ]
+            }
+      },
+      {
+            "6d6dcacf-14e6-4e1f-b6a2-21c4eaf0a543": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:76144:PassportDemo3"
+                        }
+                  ]
+            }
+      },
+      {
+            "603f2656-e045-4414-8de8-34f5dc17add5": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:76144:PassportDemo3"
+                        }
+                  ]
+            }
+      },
+      {
+            "8408e8e3-7a5c-483c-9508-54e9d50a2c77": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile001",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile001"
+                        },
+                        {
+                              "name": "Phone Number",
+                              "credentialDefinitionTag": "userAppProfile001",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile001"
+                        },
+                        {
+                              "name": "Email",
+                              "credentialDefinitionTag": "userAppProfile001",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile001"
+                        }
+                  ]
+            }
+      },
+      {
+            "6ae809d2-cecf-4d71-b52c-e9cff580a8f3": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile001",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile001"
+                        },
+                        {
+                              "name": "Phone Number",
+                              "credentialDefinitionTag": "userAppProfile001",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile001"
+                        },
+                        {
+                              "name": "Email",
+                              "credentialDefinitionTag": "userAppProfile001",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile001"
+                        }
+                  ]
+            }
+      },
+      {
+            "426c31e6-691b-4cd0-8f72-647ba2f43075": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile001",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile001"
+                        },
+                        {
+                              "name": "Phone Number",
+                              "credentialDefinitionTag": "userAppProfile001",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile001"
+                        },
+                        {
+                              "name": "Email",
+                              "credentialDefinitionTag": "userAppProfile001",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile001"
+                        }
+                  ]
+            }
+      },
+      {
+            "b21cd216-e831-4ca9-ab1a-e1641b8b2448": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile001",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile001"
+                        },
+                        {
+                              "name": "Phone Number",
+                              "credentialDefinitionTag": "userAppProfile001",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile001"
+                        },
+                        {
+                              "name": "Email",
+                              "credentialDefinitionTag": "userAppProfile001",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile001"
+                        }
+                  ]
+            }
+      },
+      {
+            "e495f5c8-74a5-4731-a7d5-deb65f9a6bfe": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile001",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile001"
+                        },
+                        {
+                              "name": "Phone Number",
+                              "credentialDefinitionTag": "userAppProfile001",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile001"
+                        },
+                        {
+                              "name": "Email",
+                              "credentialDefinitionTag": "userAppProfile001",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile001"
+                        }
+                  ]
+            }
+      },
+      {
+            "c97c5bd1-8738-40bc-bdb3-9cd8f99511e9": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile002",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile002"
+                        }
+                  ]
+            }
+      },
+      {
+            "5dda4536-9a2d-4488-9712-234eb133f20e": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile002",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile002"
+                        }
+                  ]
+            }
+      },
+      {
+            "8c7cc3b5-18c9-4ad3-9469-ef4c758d0e2c": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile003",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile003"
+                        }
+                  ]
+            }
+      },
+      {
+            "03b53ac9-8971-4058-9aee-8fbb35588ecd": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile003",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile003"
+                        }
+                  ]
+            }
+      },
+      {
+            "ca8a0106-ee44-4087-b732-a866a6745a1c": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile003",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile003"
+                        }
+                  ]
+            }
+      },
+      {
+            "2c9e9d8b-7ab9-4eea-bb36-4335c51865d8": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile003",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile003"
+                        }
+                  ]
+            }
+      },
+      {
+            "f753dcfc-b94e-4ced-8cc0-b8383aafd1e0": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile004",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile004"
+                        }
+                  ]
+            }
+      },
+      {
+            "ae84f4f8-4f2c-4b97-9b7f-8112b1b925a0": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile004",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile004"
+                        }
+                  ]
+            }
+      },
+      {
+            "cc440301-19de-4ad9-9a33-888cf57c09b3": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile004",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile004"
+                        }
+                  ]
+            }
+      },
+      {
+            "6337d446-cd6a-4cb1-b0ca-6fed7d036a8e": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile004",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile004"
+                        }
+                  ]
+            }
+      },
+      {
+            "e011b4a7-cf6b-4863-b1ce-81bc7d3be2ee": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile004",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile004"
+                        }
+                  ]
+            }
+      },
+      {
+            "6ef1e5ba-37ff-41ec-bfd5-d9ed4c44e278": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile004",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile004"
+                        }
+                  ]
+            }
+      },
+      {
+            "902d53f4-c67d-4a67-8050-2b57c0724dc4": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "userAppProfile008",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:195414:userAppProfile008"
+                        }
+                  ]
+            }
+      },
+      {
+            "5258f381-94d3-43f9-8780-d81ceda24c97": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "studentAppProfile013",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:201435:studentAppProfile013"
+                        }
+                  ]
+            }
+      },
+      {
+            "b3978825-0f3e-453a-9bf0-2d3d72bf6cf1": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "studentAppProfile013",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:201435:studentAppProfile013"
+                        }
+                  ]
+            }
+      },
+      {
+            "39d9b28a-d9f8-4161-a80c-7a84e3a8cd33": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "studentAppProfile013",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:201435:studentAppProfile013"
+                        }
+                  ]
+            }
+      },
+      {
+            "0d032f10-dfab-4dcf-b45a-7befe81a791b": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "studentAppProfile013",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:201435:studentAppProfile013"
+                        }
+                  ]
+            }
+      },
+      {
+            "f2503058-0e05-487a-9195-8a110d8d76c9": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "studentAppProfile013",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:201435:studentAppProfile013"
+                        }
+                  ]
+            }
+      },
+      {
+            "4562c926-a016-441d-ad83-53536819cb34": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "studentAppProfile013",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:201435:studentAppProfile013"
+                        }
+                  ]
+            }
+      },
+      {
+            "42c5ee90-3a5e-4f3b-8338-db18a97f38eb": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "studentAppProfile013",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:201435:studentAppProfile013"
+                        }
+                  ]
+            }
+      },
+      {
+            "6f361f21-c65f-4ba0-ade7-c548f0c65137": {
+                  "proofAttributes": [
+                        {
+                              "name": "Name",
+                              "credentialDefinitionTag": "studentAppProfile013",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:201435:studentAppProfile013"
+                        }
+                  ]
+            }
+      },
+      {
+            "20ac1217-3dad-46b3-b687-0b5730adc569": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionTag": "futureLearnCert005",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:175522:futureLearnCert005"
+                        }
+                  ]
+            }
+      },
+      {
+            "74682206-c520-4190-a4d1-471bfcb8e73a": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionTag": "futureLearnCert005",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:175522:futureLearnCert005"
+                        }
+                  ]
+            }
+      },
+      {
+            "0b513446-94b0-435f-947f-77b232507016": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionTag": "futureLearnCert005",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:175522:futureLearnCert005"
+                        }
+                  ]
+            }
+      },
+      {
+            "efd86a92-6d0f-4144-9185-3069c40c55f5": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionTag": "futureLearnCert005",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:175522:futureLearnCert005"
+                        }
+                  ]
+            }
+      },
+      {
+            "af0a6450-2150-497b-82b8-461db6c441e1": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionTag": "futureLearnCert005",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:175522:futureLearnCert005"
+                        }
+                  ]
+            }
+      },
+      {
+            "050bd586-3b45-40d4-b5d0-563373565111": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionTag": "futureLearnCert005",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:175522:futureLearnCert005"
+                        }
+                  ]
+            }
+      },
+      {
+            "0a94f8e6-521a-4eb1-84b3-5ce3d965984f": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionTag": "futureLearnCert005",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:175522:futureLearnCert005"
+                        }
+                  ]
+            }
+      },
+      {
+            "4486a50e-cc15-4db0-ae35-a5e37aadca83": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionTag": "futureLearnCert005",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:175522:futureLearnCert005"
+                        }
+                  ]
+            }
+      },
+      {
+            "93665200-7047-4ee3-af59-72c09a044ef7": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionTag": "futureLearnCert005",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:175522:futureLearnCert005"
+                        }
+                  ]
+            }
+      },
+      {
+            "996d6a65-3aa3-40c0-af69-030299678f57": {
+                  "proofAttributes": [
+                        {
+                              "name": "name",
+                              "credentialDefinitionTag": "futureLearnCert005",
+                              "credentialDefinitionId": "VV9pK5ZrLPRwYmotgACPkC:3:CL:175522:futureLearnCert005"
+                        }
+                  ]
+            }
+      }
+]
